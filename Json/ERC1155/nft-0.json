@@ -1,14 +1,13 @@
 {
-  "name": "风景 #0",
-  "description": "quanquan nft 0",
-  "image": "ipfs://QmT9CFoxMBqUPgZH6CcBfeqDFMQf43tN5g9HFRygAXzX47?filename=IMG_4870.JPG",
-  "dna": "5b882fd9b472c8696ca514e34a91b32e36ff48f4",
+  "name": "创世卡-圈圈通证",
+  "description": "圈圈元宇宙通过区块链 (polygon) ，智能合约(ERC721, ERC1155) 和 Web3 等技术，为数字艺术品提供确权, 使其成为独一无二的数字藏品。我们致力于满足用户对数字藏品的发现、收集与分享需求，促进科学与艺术的完美融合。
+  圈圈元宇宙对发行的内容实行严格筛选和管控，以保证您的数字藏品价值。在圈圈元宇宙里，您可以是创作者，收藏家，开拓者，以及您想成为的任何人。",
+  "image": "ipfs://QmbVdNg8qiTrDxFeHtVjBSWgFMZRMPgqHFEvyX1PUHB6jj?filename=0-太空图.jpg",
   "edition": 1,
-  "date": 1646323906,
   "attributes": [
     {
-      "trait_type": "BACKGROUND",
-      "value": "Blue"
+      "trait_type": "属性",
+      "value": "创世卡"
     }
   ],
   "compiler": "Quanquan Art Engine"
