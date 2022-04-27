@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #58",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/58.png",
+  "dna": "e07f7cfb60e1d7968e2a8c6085892ce2e481b912",
+  "edition": 58,
+  "date": 1648677560150,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "backgroud"
+    },
+    {
+      "trait_type": "Body",
+      "value": "body"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "accessory"
+    },
+    {
+      "trait_type": "Lefthand",
+      "value": "lefthand"
+    },
+    {
+      "trait_type": "Righthand",
+      "value": "righthand"
+    },
+    {
+      "trait_type": "Logo",
+      "value": "logo"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
